@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KCaKC</string>
+    <string name="bpm">Уд/мин:</string>
+    <string name="_0">0</string>
+    <string name="begin_alert">Приложите палец к камере, чтобы начать измерения пульса</string>
+    <string name="play">Начать игру</string>
+    <string name="silabel">ИН:</string>
+    <string name="ratelabel">Убито:</string>
+    <string name="maxratelabel">Рекорд:</string>
+    <string name="on">ON</string>
+</resources>
