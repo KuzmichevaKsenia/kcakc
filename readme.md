@@ -1,5 +1,5 @@
 # KCaKC - Keep Calm and Kill Cockroaches
-Игра для мобильных устройств на платформе Android.
+Игра для мобильных устройств на платформе Android [KCaKC.apk](KCaKC.apk)
 
 ![screens.png](img/screens.png)
 
