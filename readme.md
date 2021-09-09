@@ -3,7 +3,7 @@
 
 ![screens.png](img/screens.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kAmYpKi5Y84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](img/youtube.png)](https://www.youtube.com/watch?v=kAmYpKi5Y84)
 
 Приложение осуществляет сбор данных о пульсе пользователя и его вариабельности, используя вспышку и камеру мобильного устройства в качестве сенсора.
 Скорость игрового процесса должна варьируется в зависимости от регистрируемого состояния пользователя с целью его нормализации.
